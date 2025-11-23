@@ -23,7 +23,6 @@ This repository contains my code, notes, and projects from following along with 
 ## Resources
 
 - [Course Link](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- [Course Resources](https://www.appbrewery.co/p/web-development-course-resources)
 
 ---
 
